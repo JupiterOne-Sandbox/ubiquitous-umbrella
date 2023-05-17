@@ -1,2 +1,2 @@
 # ubiquitous-umbrella
-For testing GitHub API
+For testing GitHub
